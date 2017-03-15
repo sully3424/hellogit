@@ -10,7 +10,7 @@ namespace hellocsdngitworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello CSDN Git");
+            Console.WriteLine("Hello CSDN Git");//备注
         }
     }
 }
