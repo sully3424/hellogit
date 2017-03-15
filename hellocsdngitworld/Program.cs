@@ -11,6 +11,7 @@ namespace hellocsdngitworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello CSDN Git");//备注
+            Console.WriteLine("Test Git");//另一个备注
         }
     }
 }
